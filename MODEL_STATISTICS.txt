@@ -1,0 +1,127 @@
+-------------------------------------------------------------------------------------------------------------------
+Data_in_2017
+-------------------------------------------------------------------------------------------------------------------
+ACCEPED / REJECTED PREDICTION
+-----------------------------------------------------------------------------
+DECISION TREE :
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+
+RANDOM FORESET CLASSIFIER:
+Accuracy on training set:.2f% 1.0
+Accuracy on test set:.2f% 1.0
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+-----------------------------------------------------------------------------
+THROUGHPUT PREDICTION
+------------------------------------------------------------------------------
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 2634230804789.2153
+Coefficient of determination: %.2f -0.5966092894653554
+
+RANDOM FORESET REGRESSOR:
+Mean squared error: %.2f 2154711667264.455
+Coefficient of determination: %.2f -0.30597237638373587
+
+LINEAR REGRESSION :
+Mean squared error: %.2f 1682888465436.35
+Coefficient of determination: %.2f -0.019999975767033495
+-----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+Data_in_2018
+-------------------------------------------------------------------------------------------------------------------
+ACCEPED / REJECTED PREDICTION
+------------------------------------------------------------------------------
+DECISION TREE :
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+
+RANDOM FORESET CLASSIFIER:
+Accuracy on training set:.2f% 1.0
+Accuracy on test set:.2f% 1.0
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+------------------------------------------------------------------------------
+THROUGHPUT PREDICTION
+------------------------------------------------------------------------------
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 4825874058947.387
+Coefficient of determination: %.2f -0.6852707768646673
+
+RANDOM FORESET REGRESSOR:
+Mean squared error: %.2f 3620225329300.9526
+Coefficient of determination: %.2f -0.2642393644368992
+
+LINEAR REGRESSION :
+Mean squared error: %.2f 2818061723461.817
+Coefficient of determination: %.2f 0.015888725660824887
+------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+Data_con_2017
+-------------------------------------------------------------------------------------------------------------------
+ACCEPED / REJECTED PREDICTION
+------------------------------------------------------------------------------
+DECISION TREE :
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+
+RANDOM FORESET CLASSIFIER:
+Accuracy on training set:.2f% 1.0
+Accuracy on test set:.2f% 1.0
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+------------------------------------------------------------------------------
+THROUGHPUT PREDICTION
+------------------------------------------------------------------------------
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 2284318456285.617
+Coefficient of determination: %.2f -0.7253848687267437
+
+RANDOM FORESET REGRESSOR:
+Mean squared error: %.2f 1831327587990.6448
+Coefficient of determination: %.2f -0.38323310452026926
+
+LINEAR REGRESSION :
+Mean squared error: %.2f 1324243628890.389
+Coefficient of determination: %.2f -0.00022390201692146228
+------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------
+Data_con_2018
+-------------------------------------------------------------------------------------------------------------------
+ACCEPED / REJECTED PREDICTION
+------------------------------------------------------------------------------
+DECISION TREE :
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+
+RANDOM FORESET CLASSIFIER:
+Accuracy on training set:.2f% 1.0
+Accuracy on test set:.2f% 1.0
+Accuracy: %.2f 1.0
+Prescision: %.2f 1.0
+Recall: %.2f 1.0
+------------------------------------------------------------------------------
+THROUGHPUT PREDICTION
+------------------------------------------------------------------------------
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 3195002381834.7656
+Coefficient of determination: %.2f -0.47861042810021304
+
+RANDOM FORESET REGRESSOR:
+Mean squared error: %.2f 2668401940783.5596
+Coefficient of determination: %.2f -0.23490578862719214
+
+LINEAR REGRESSION :
+Mean squared error: %.2f 2100954128013.1
+Coefficient of determination: %.2f 0.02770254560610952
+------------------------------------------------------------------------------

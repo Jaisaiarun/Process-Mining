@@ -1,0 +1,19 @@
+Data_in_2017
+Total number of cases :1497
+Total amount requested 1123014.2124317281
+The number of cases in which the DIRECTOR is involved :209
+
+Data_in_2018
+Total number of cases :5322
+Total amount requested 4094019.7756580487
+The number of cases in which the DIRECTOR is involved :529
+
+Data_con_2017
+Total number of cases :1124
+Total amount requested 851154.6202590276
+The number of cases in which the DIRECTOR is involved :163
+
+Data_con_2018
+Total number of cases :4775
+Total amount requested 3704630.759417277
+The number of cases in which the DIRECTOR is involved :466

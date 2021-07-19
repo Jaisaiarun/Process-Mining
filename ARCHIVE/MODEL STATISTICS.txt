@@ -1,0 +1,33 @@
+MODEL STATISTICS
+
+Data_in_2017
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 94020090.24803513
+Coefficient of determination: %.2f 0.9999485253796403
+LINEAR REGRESSION :
+Mean squared error: %.2f 1793205747206.1409
+Coefficient of determination: %.2f 0.018246155466945635
+
+Data_in_2018
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 2801192606.1014724
+Coefficient of determination: %.2f 0.9987487377467732
+LINEAR REGRESSION :
+Mean squared error: %.2f 2192908097550.5334
+Coefficient of determination: %.2f 0.020451817099758185
+
+Data_con_2017
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 63743869.16928044
+Coefficient of determination: %.2f 0.9999578083386058
+LINEAR REGRESSION :
+Mean squared error: %.2f 1494643020569.865
+Coefficient of determination: %.2f 0.01070529525626751
+
+Data_con_2018
+REGRESSION DECISION TREE :
+Mean squared error: %.2f 2998159553.514564
+Coefficient of determination: %.2f 0.9980091339438993
+LINEAR REGRESSION :
+Mean squared error: %.2f 1451013349003.2825
+Coefficient of determination: %.2f 0.036484492597047447
